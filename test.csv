@@ -1,0 +1,4 @@
+﻿name,age,city,email,hobbies
+Alice,30,New York,,
+Bob,25,Los Angeles,bob@example.com,
+Charlie,35,Chicago,,"['reading', 'traveling']"
